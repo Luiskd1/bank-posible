@@ -1,3 +1,3 @@
-# gota gota page
+# bankpage
 
-Este repositorio es para practicar y hacer una pagina gota gota 
+Este repositorio es para un ejercicio de banco
